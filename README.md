@@ -26,7 +26,7 @@ wpvbxlsc
 ## Installation
 
 ```sh
-$ go get -u github.com/sethvargo/go-password/password
+$ go get -u github.com/dewhurstwill/go-password/password
 ```
 
 ## Usage
@@ -37,7 +37,7 @@ package main
 import (
   "log"
 
-  "github.com/sethvargo/go-password/password"
+  "github.com/dewhurstwill/go-password/password"
 )
 
 func main() {
